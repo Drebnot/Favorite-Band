@@ -1,6 +1,9 @@
 .sidebar{
   float: right;
   background-color: black;
+  border: 2px solid gold;
+  margin: 12px;
+  padding: 10px;
 }
 #green {
   color: green;
@@ -24,6 +27,9 @@ li {
 
 .band-pic {
   float: left;
+  margin: 15px;
+  border: 2px dotted skyblue;
+  padding: 4px;
 }
 
 .column {
@@ -39,5 +45,8 @@ body {
 
 #last-pic {
   margin-left: 300px;
- 
+  margin: 15px;
+  border: 2px groove skyblue;
+  padding: 4px;
+  background-color: gold;
 }
