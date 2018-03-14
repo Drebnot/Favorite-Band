@@ -1,0 +1,43 @@
+.sidebar{
+  float: right;
+  background-color: black;
+}
+#green {
+  color: green;
+}
+#purple {
+  color: purple;
+}
+#blue {
+  color: blue;
+}
+#black {
+  color: white;
+}
+h2 {
+  color: red;
+  text-decoration: underline;
+}
+li {
+  line-height: 50px;
+}
+
+.band-pic {
+  float: left;
+}
+
+.column {
+  width: 300px;
+  float: left;
+}
+
+body {
+    background-color: salmon;
+
+
+}
+
+#last-pic {
+  margin-left: 300px;
+ 
+}
